@@ -1,5 +1,5 @@
 # Midnight-Omnis Compatibility Patches
-A plugin adding Omnis compatibility to the Midnight Trilogy.
+A plugin adding Omnis compatibility to the Midnight Trilogy. The version numbers for each release correspond to the Midnight releases.
 
 ## Requirements
 - Omnis
