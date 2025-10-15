@@ -37,6 +37,8 @@ shipyard "korath plugin"
 shipyard "korathVariants plugin"
 	"Far'itar B"
 	"Tubfalet (flip)"
+	"Model 512 (dire omen)"
+	"Korath Raider (Plexus)"
 
 shipyard "korathVariantsAll plugin"
 	"Akfir A'awoj (Civilian)"
