@@ -1,2 +1,0 @@
-outfitter "bunrodea plugin"
-	"Lasher Rifle"
