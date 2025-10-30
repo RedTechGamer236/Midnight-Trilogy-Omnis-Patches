@@ -1,5 +1,5 @@
 outfitter "wanderer plugin"
-	"Thunderhead Pot"
+	"Thunderhead Pod"
 	"Anti-Ionic Plating"
 	"Wanderer Advanced Cooling"
 
@@ -19,7 +19,6 @@ shipyard "wandererVariants plugin"
 	"Deep River Carrier (Half)"
 	"Storm Seeker Reborn"
 	"Thunder Maker (Modern)"
-	
 
 shipyard "wanderVariantsAll plugin"
 	"Storm Seeker (Troops)"
@@ -41,7 +40,10 @@ shipyard "wanderVariantsAll plugin"
 	"Derecho (Hai Crew)"
 	"Hurricane (Hai Crew)"
 	"Summer Leaf (Missile)"
-	"Autumn Leaf (MIssile)"
+	"Autumn Leaf (Missile)"
 	"Strong Wind (Shields)"
-	
+	"Spring Leaf (Jump)"
+	"Winter Leaf (Jump)"
+	"Tornado (Jump)"
+	"Tsunami (Jump)"
 	

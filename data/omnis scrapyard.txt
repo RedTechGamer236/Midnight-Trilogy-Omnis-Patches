@@ -57,7 +57,7 @@ shipyard "korathVariants plugin"
 	
 shipyard "korathVariantsAll plugin"
 	"Met Par Tek 53 (scrapper)"
-	"Tek Far 109 (scrapper"
+	"Tek Far 109 (scrapper)"
 	"Tek Far 78 - Osk (scrapper)"
 	"Tek Far 71 - Lek (scrapper)"
 	"Kar Ik Vot 349 (scrapper)"

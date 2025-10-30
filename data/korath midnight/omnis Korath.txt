@@ -10,7 +10,7 @@ outfitter "korath plugin"
 	"Thermal Scorcher"
 	"Thermal Scorcher Turret"
 	"Botanical Garden"
-	"Korath Heat Shunt (Huge)
+	"Korath Heat Shunt (Huge)"
 	"Korath Scanner"
 	"Microbot Fabricator"
 	"Security Scanner"
