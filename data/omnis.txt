@@ -132,5 +132,4 @@ shipyard "remnant plugin"
 	"Magpie"
 
 shipyard "remnantVariantsAll plugin"
-
 	"Avialae (Disarmed)"
