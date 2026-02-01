@@ -128,8 +128,9 @@ shipyard "humanVariantsAll plugin"
 	"Modified Cargo Star (Smuggler)"
 	
 shipyard "remnant plugin"
-	"Availae"
+	"Avialae"
 	"Magpie"
 
 shipyard "remnantVariantsAll plugin"
-	"Availae (Disarmed)"
+
+	"Avialae (Disarmed)"
